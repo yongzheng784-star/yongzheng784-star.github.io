@@ -1,2 +1,2 @@
 # app-ads
-App-ads.txt for 影视达人
+App-ads.txt for my apps
