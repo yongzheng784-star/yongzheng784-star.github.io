@@ -5025,3 +5025,5 @@ trustedstack.com, TS677PGY3, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 
 axonix.com, 59204, RESELLER
+
+vungle.com, 6a76f04f3c7069885f2a84a7, DIRECT, c107d686becd2d77
